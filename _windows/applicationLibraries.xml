@@ -1,0 +1,20 @@
+<application>
+  <component name="libraryTable">
+    <library name="prototype" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Prototype" />
+        <option name="frameworkVersion" value="1.7.3" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_prototype_1.7.3.0_prototype.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_prototype_1.7.3.0_prototype.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.prototypejs.org" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+  </component>
+</application>
