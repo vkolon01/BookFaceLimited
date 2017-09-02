@@ -4,10 +4,9 @@
       <mapping pattern="head" type="EJS" />
       <mapping pattern="induvidual" type="JavaScript" />
       <mapping pattern="assistantManager" type="JavaScript" />
-      <mapping pattern="accountControl.js" type="PLAIN_TEXT" />
       <mapping pattern="Customer page.ejs" type="PLAIN_TEXT" />
+      <mapping pattern="accountControl.js" type="PLAIN_TEXT" />
       <mapping pattern="assistantManager.js" type="PLAIN_TEXT" />
-      <mapping pattern="test.js" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
