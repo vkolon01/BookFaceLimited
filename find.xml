@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[Lets-Run] - ...'" />
-    <option name="defaultScopeName" value="Directory '[Lets-Run] - ...'" />
-    <option name="SEARCH_SCOPE" value="Directory '[Lets-Run] - ...'" />
+    <option name="customScope" value="File '[Lets-Run] - ...\Lets-Run-client\letsRun\src\app\services\user.service.ts'" />
+    <option name="defaultScopeName" value="File '[Lets-Run] - ...\Lets-Run-client\letsRun\src\app\services\user.service.ts'" />
+    <option name="SEARCH_SCOPE" value="File '[Lets-Run] - ...\Lets-Run-client\letsRun\src\app\services\user.service.ts'" />
   </component>
 </application>
